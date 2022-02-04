@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wei Han Chen
 - 👀 I’m interested in getting my feet into the programming world. Mainly focusing and learning on technologies related to Back End / Full Stack
-- 💞️ I’m looking to collaborate on cool Java projects related to stocks, cryptos, and bots
+- 💞️ I’m looking to collaborate on cool Java projects related to stocks, cryptos, bots, and web.
 - 📫 How to reach me @weihanchen0725 on linkedin
 
 <!---
