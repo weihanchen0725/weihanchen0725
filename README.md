@@ -6,9 +6,9 @@ Whether it's web development, bots, or data-driven systems, I love exploring new
 
 ## 🚀 What I'm Working On
 I'm currently deepening my expertise in:
-- 🖥️ **Frontend development** for desktop web apps (React, TypeScript, MUI)
-- ⚙️ **Backend engineering** using Java and C#
-- - **Full-stack** projects using modern web technologies
+- **Frontend development** for desktop web apps (React, TypeScript, MUI)
+- **Backend engineering** using Java and C#
+- **Full-stack** projects using modern web technologies
 
 ## 💡 Looking to Collaborate?
 I'm always open to teaming up on:
