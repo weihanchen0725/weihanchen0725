@@ -40,6 +40,5 @@ I am a Software Engineer specializing in the development of secure, scalable web
 ## Contact & Professional Network
 
 * **LinkedIn:** [@weihanchen0725](https://linkedin.com/in/weihanchen0725)
-* **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 * **Portfolio:** *Coming soon*
 * **Email:** weihanchen0725@gmail.com
