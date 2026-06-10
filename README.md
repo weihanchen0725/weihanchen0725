@@ -1,27 +1,45 @@
 # Wei Han Chen
 
-**Senior Frontend Engineer / Software Engineer | Enterprise Web Applications | Full-Stack Systems | API-Driven Architecture**
+**Software Engineer | Enterprise Web Applications | Full-Stack Integration | API-Driven Architecture**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/weihanchen0725)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-green?style=flat&logo=minutemailer)](mailto:weihanchen0725@gmail.com)
 
 ## Professional Summary
 
-I am a Senior Frontend Engineer and Software Engineer specializing in the development of secure, scalable web applications and enterprise tools. My expertise centers on modernizing complex workflows into intuitive, high-performance desktop web interfaces utilizing React, TypeScript, and MUI. I am highly focused on building full-stack systems that seamlessly integrate robust frontend architectures with reliable API-driven backends. Currently expanding my backend capabilities with Java and C#, I deliver practical, maintainable software solutions designed for data-intensive domains such as fintech, workflow automation, and enterprise dashboards. I am open to international roles, remote collaboration, and contributing to engineering-focused global teams.
+I am a Software Engineer specializing in the development of secure, scalable web applications and enterprise-grade tools. My engineering expertise centers on modernizing complex business workflows into intuitive, high-performance desktop web interfaces utilizing React, TypeScript, and MUI. I focus on building systems that seamlessly integrate robust frontend architectures with reliable, API-driven backends. Currently expanding my capabilities in full-stack delivery with Next.js, headless CMS architectures, Java, and C#, I deliver maintainable software solutions designed for data-intensive domains such as fintech, workflow automation, and internal enterprise dashboards. I am open to international roles, remote collaboration, and contributing to engineering-focused global teams.
 
 ## Technical Proficiencies
 
-* **Frontend Architecture:** React, TypeScript, JavaScript, MUI, HTML, CSS
-* **Backend Integration:** Java, C#, REST APIs, foundational backend system design
-* **Development Tools:** Git, GitHub, VS Code, API testing suites, modern package managers
-* **Domain Expertise:** Financial technology (Fintech), workflow automation, enterprise dashboards, trading tool interfaces, full-stack platforms
+* **Frontend Architecture:** React, Next.js, TypeScript, JavaScript, MUI, Tailwind CSS
+* **Backend & Security:** Java, C#, RESTful APIs, JWT Authentication, Role-Based Access Control (RBAC)
+* **Infrastructure & Tools:** Git, GitHub Actions, Docker, Strapi Headless CMS, Proxmox
+* **Domain Expertise:** Financial technology (Fintech), workflow automation, enterprise data dashboards, trading tool interfaces, internationalization (i18n)
 
 ## Core Engineering Focus
 
-* **Enterprise & Financial Dashboards** Architecting secure, responsive interfaces for visualizing and analyzing complex financial data and business metrics.
-* **Workflow Automation** Engineering dedicated tools and platforms designed to reduce manual overhead, accelerate internal processes, and streamline business operations.
-* **Full-Stack Application Development** Building robust end-to-end systems that enforce a clean separation of concerns between user-friendly frontend interfaces and structured backend services.
-* **Data-Driven Prototypes & Trading Tools** Developing tracking interfaces and analytics tools for market activity, cryptocurrency ecosystems, and quantitative workflows.
+* **Enterprise & Service Dashboards:** Architecting secure, responsive interfaces for managing complex business data, service entitlements, and internal sales workflows.
+* **Global Content Platforms:** Developing scalable web applications designed to handle service routing and localized content using modern headless architectures.
+* **Workflow Automation:** Engineering dedicated tools, scripts, and server environments designed to reduce manual overhead and streamline continuous operations.
+* **Data-Driven Prototypes:** Building tracking interfaces and analytical dashboards for financial metrics, market activity, and automated trading workflows.
+
+## Featured Architecture & Projects
+
+* **Enterprise Sales & Service Portal** Modernizes legacy workflows by organizing complex entitlement and sales data into an intuitive, secure interface for internal teams. 
+  * **Architecture:** React, TypeScript, MUI
+  * **Integration:** REST APIs, JWT Authentication, RBAC
+
+* **Global Logistics Service Platform** Streamlines service operations and localized content management into a fast, modern web experience for international users.
+  * **Architecture:** Next.js, TypeScript, Tailwind CSS
+  * **Integration:** Strapi Headless CMS, i18n support
+
+* **Financial Data & Automation Services** Automated tooling designed to aggregate, process, and deliver reliable data for market analytics and trading dashboards.
+  * **Architecture:** Java, C#
+  * **Integration:** RESTful API consumption, background processing
 
 ## Contact & Professional Network
 
 * **LinkedIn:** [@weihanchen0725](https://linkedin.com/in/weihanchen0725)
+* **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 * **Portfolio:** *Coming soon*
 * **Email:** weihanchen0725@gmail.com
