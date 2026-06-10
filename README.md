@@ -1,33 +1,27 @@
-# 👋 Hey there! I'm Wei Han Chen
+# Wei Han Chen
 
-Welcome to my GitHub! 
-I'm a software engineer passionate about building scalable backend and full-stack applications. 
-Whether it's web development, bots, or data-driven systems, I love exploring new ways to bring ideas to life through code.
+**Senior Frontend Engineer / Software Engineer | Enterprise Web Applications | Full-Stack Systems | API-Driven Architecture**
 
-## 🚀 What I'm Working On
-I'm currently deepening my expertise in:
-- **Frontend development** for desktop web apps (React, TypeScript, MUI)
-- **Backend engineering** using Java and C#
-- **Full-stack** projects using modern web technologies
+## Professional Summary
 
-## 💡 Looking to Collaborate?
-I'm always open to teaming up on:
-- Full-stack tools or platforms
-- Fintech, bots, or automation projects
-- Clean and modern frontend experiences
-- Java or TypeScript-based backend tools
-- Crypto-related dashboards or trading bots
-- Web apps with a solid API foundation
+I am a Senior Frontend Engineer and Software Engineer specializing in the development of secure, scalable web applications and enterprise tools. My expertise centers on modernizing complex workflows into intuitive, high-performance desktop web interfaces utilizing React, TypeScript, and MUI. I am highly focused on building full-stack systems that seamlessly integrate robust frontend architectures with reliable API-driven backends. Currently expanding my backend capabilities with Java and C#, I deliver practical, maintainable software solutions designed for data-intensive domains such as fintech, workflow automation, and enterprise dashboards. I am open to international roles, remote collaboration, and contributing to engineering-focused global teams.
 
-If you're working on something cool, especially in fintech or automation, let’s connect!
+## Technical Proficiencies
 
-## 📫 Get in Touch
-- [LinkedIn – @weihanchen0725](https://www.linkedin.com/in/weihanchen0725)
-- Or just drop a message through GitHub!
+* **Frontend Architecture:** React, TypeScript, JavaScript, MUI, HTML, CSS
+* **Backend Integration:** Java, C#, REST APIs, foundational backend system design
+* **Development Tools:** Git, GitHub, VS Code, API testing suites, modern package managers
+* **Domain Expertise:** Financial technology (Fintech), workflow automation, enterprise dashboards, trading tool interfaces, full-stack platforms
 
-Thanks for stopping by — let’s build something awesome together.
+## Core Engineering Focus
 
-<!---
-weihanchen0725/weihanchen0725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Enterprise & Financial Dashboards** Architecting secure, responsive interfaces for visualizing and analyzing complex financial data and business metrics.
+* **Workflow Automation** Engineering dedicated tools and platforms designed to reduce manual overhead, accelerate internal processes, and streamline business operations.
+* **Full-Stack Application Development** Building robust end-to-end systems that enforce a clean separation of concerns between user-friendly frontend interfaces and structured backend services.
+* **Data-Driven Prototypes & Trading Tools** Developing tracking interfaces and analytics tools for market activity, cryptocurrency ecosystems, and quantitative workflows.
+
+## Contact & Professional Network
+
+* **LinkedIn:** [@weihanchen0725](https://linkedin.com/in/weihanchen0725)
+* **Portfolio:** *Coming soon*
+* **Email:** weihanchen0725@gmail.com
