@@ -1,4 +1,4 @@
-# Wei Han Chen
+# Wei-Han Chen
 
 **Software Engineer | Enterprise Web Applications | Full-Stack Integration | API-Driven Architecture**
 
@@ -40,5 +40,5 @@ I am a Software Engineer specializing in the development of secure, scalable web
 ## Contact & Professional Network
 
 * **LinkedIn:** [@weihanchen0725](https://linkedin.com/in/weihanchen0725)
-* **Portfolio:** *Coming soon*
+* **Portfolio:** [My Portfolio](https://weihanchen0725-portfolio.vercel.app/)
 * **Email:** weihanchen0725@gmail.com
